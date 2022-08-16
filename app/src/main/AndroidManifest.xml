@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.citesshow">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Citesshow"
+        tools:targetApi="31">
+        <activity
+            android:name=".luxorTemple"
+            android:exported="false" />
+        <activity
+            android:name=".cournish"
+            android:exported="false" />
+        <activity
+            android:name=".internationalgarden"
+            android:exported="false" />
+        <activity
+            android:name=".RamsuemTemple"
+            android:exported="false" />
+        <activity
+            android:name=".vallyofqueen"
+            android:exported="false" />
+        <activity
+            android:name=".vallyofking"
+            android:exported="false" />
+        <activity
+            android:name=".BananaIsland"
+            android:exported="false" />
+        <activity
+            android:name=".Nadalandpark"
+            android:exported="false" />
+        <activity
+            android:name=".MotuaryTemple"
+            android:exported="false" />
+        <activity
+            android:name=".luxormusuem"
+            android:exported="false" />
+        <activity
+            android:name=".Deirelmedina"
+            android:exported="false" />
+        <activity
+            android:name=".Abydocity"
+            android:exported="false" />
+        <activity
+            android:name=".highdambridge"
+            android:exported="false" />
+        <activity
+            android:name=".AjelicaIsland"
+            android:exported="false" />
+        <activity
+            android:name=".ValentinIsalnd"
+            android:exported="false" />
+        <activity
+            android:name=".Sohali_island"
+            android:exported="false" />
+        <activity
+            android:name=".Temple_of_ramses"
+            android:exported="false" />
+        <activity
+            android:name=".Temple_of_Komobo"
+            android:exported="false" />
+        <activity
+            android:name=".Templeofkalasha"
+            android:exported="false" />
+        <activity
+            android:name=".Karanak_temple"
+            android:exported="false" />
+        <activity
+            android:name=".Abu_simple_temple"
+            android:exported="false" />
+        <activity
+            android:name=".djaracave"
+            android:exported="false" />
+        <activity
+            android:name=".housemusuem"
+            android:exported="false" />
+        <activity
+            android:name=".deadmountain"
+            android:exported="false" />
+        <activity
+            android:name=".Gazala"
+            android:exported="false" />
+        <activity
+            android:name=".fatnasIsland"
+            android:exported="false" />
+        <activity
+            android:name=".greatSandSea"
+            android:exported="false" />
+        <activity
+            android:name=".theTempleOfOracle"
+            android:exported="false" />
+        <activity
+            android:name=".theshali"
+            android:exported="false" />
+        <activity
+            android:name=".salt_lake"
+            android:exported="false" />
+        <activity
+            android:name=".elbaronpalace"
+            android:exported="false" />
+        <activity
+            android:name=".khanelkhalili"
+            android:exported="false" />
+        <activity
+            android:name=".abadeenpalace"
+            android:exported="false" />
+        <activity
+            android:name=".nationalmusuem"
+            android:exported="false" />
+        <activity
+            android:name=".elmoezStreet"
+            android:exported="false" />
+        <activity
+            android:name=".ashafahmi"
+            android:exported="false" />
+        <activity
+            android:name=".cairoTower"
+            android:exported="false" />
+        <activity
+            android:name=".egyptianmusuem"
+            android:exported="false" />
+        <activity
+            android:name=".description"
+            android:exported="false" />
+        <activity
+            android:name=".sharmel"
+            android:exported="false" />
+        <activity
+            android:name=".gona"
+            android:exported="false" />
+        <activity
+            android:name=".siwa"
+            android:exported="false" />
+        <activity
+            android:name=".elgharda"
+            android:exported="false" />
+        <activity
+            android:name=".marsaAlam"
+            android:exported="false" />
+        <activity
+            android:name=".matrouh"
+            android:exported="false" />
+        <activity
+            android:name=".dahab"
+            android:exported="false" />
+        <activity
+            android:name=".luxor"
+            android:exported="false" />
+        <activity
+            android:name=".aswan"
+            android:exported="false" />
+        <activity
+            android:name=".alexandria"
+            android:exported="false" />
+        <activity
+            android:name=".cairo"
+            android:exported="false" />
+        <activity
+            android:name=".placesingiza"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

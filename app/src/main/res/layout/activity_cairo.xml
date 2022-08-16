@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cairo"
+    android:id="@+id/cons">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/cairo"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/cairo2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cairo"
+
+
+                    android:layout_marginTop="-57dp"
+                    android:text="@string/cairo"
+                    android:textColor="@color/white"
+                    android:textSize="40sp"
+
+                    android:textStyle="bold"
+                    android:layout_marginLeft="8dp"/>
+
+                <TextView
+                    android:id="@+id/placesincairo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cairo"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="40dp"
+                    android:text="@string/places"
+                    android:textColor="#4D93CC"
+                    android:textSize="24sp" />
+
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:id="@+id/citadel"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/placesincairo"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/citadel" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/citadel"
+                    android:layout_marginTop="-20dp"
+                    android:text="@string/citadel"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginLeft="8dp"/>
+
+                <ImageView
+                    android:id="@+id/egymusuem"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/placesincairo"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/citadel"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/egyptionmusuem" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/egymusuem"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@+id/citadel"
+                    android:text="@string/egyptmusuem"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginLeft="8dp"/>
+
+                <ImageView
+                    android:id="@+id/cairotower"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@+id/placesincairo"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@+id/egymusuem"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/cairotower" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/egymusuem"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/egymusuem"
+                    android:text="@string/cairotower"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+
+                    />
+
+                <ImageView
+                    android:id="@+id/asha"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/citadel"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ashapalace" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="@string/asha"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/elmoez"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/citadel"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/asha"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/elmoezstreet" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/asha"
+                    android:text="@string/elmoez"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/nationalmusuem"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/citadel"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/elmoez"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/nationalmusuem" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/elmoez"
+                    android:text="@string/nationeg"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/abadein"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/abadeinpalace" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/abadein"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="@string/abdeinpalace"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/khan"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/abadein"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/khanelkhalili" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/abadein"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/abadein"
+                    android:text="@string/khanelkhalili"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/elbaron"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/asha"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/khan"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/elbaron" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/abadein"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/khan"
+                    android:text="@string/elbaron"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+
+                <com.google.android.gms.maps.MapView
+                    android:id="@+id/mapView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="361dp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

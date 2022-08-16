@@ -1,0 +1,256 @@
+<resources>
+    <string name="app_name">citeslist</string>
+    <string name="cairo">Cairo</string>
+    <string name="Giza">El_Giza</string>
+    <string name="alexandria">Alexandria</string>
+    <string name="luxor">luxor</string>
+    <string name="aswan">Aswan</string>
+    <string name="dahab">Dahab</string>
+    <string name="gona">fayoum</string>
+    <string name="Hurghada">El_Gharda</string>
+    <string name="sharm">Sharm El_shaikh</string>
+    <string name="marsaalam">Marsa Alam</string>
+    <string name="matrouh">Marsa matrouh</string>
+    <string name="swia">Siwa osais</string>
+    <string name="fayoum">Fayoum</string>
+    <string name="alamein">Alalmein</string>
+    <string name="pyrmid">Pyrmids</string>
+    <string name="book">book</string>
+    <string name="places">top places</string>
+    <string name="citadel">citadel</string>
+    <string name="egyptmusuem">egyption musuem</string>
+    <string name="cairotower">cairo tower</string>
+    <string name="asha">ashaFahmi palace</string>
+    <string name="elmoez">elmoez street</string>
+    <string name="nationeg">national musuem</string>
+    <string name="abdeinpalace">abadein palace</string>
+    <string name="khanelkhalili">khan elkhalili</string>
+    <string name="elbaron">elbaron palace</string>
+    <string name="citbey">citbey citadel</string>
+    <string name="abuqir">Abu Qir</string>
+    <string name="boltcastle">bolt Castle</string>
+    <string name="lostcity">the Lost City</string>
+    <string name="komeldikka">kom El_Dikka</string>
+    <string name="raseltin">Ras El_tin Palace</string>
+    <string name="alexlibrary">Alex Library</string>
+    <string name="stanley">stanelt Bridge</string>
+    <string name="abasmosque">Abas Mosque</string>
+    <string name="montazh">EL_Montazh</string>
+    <string name="alshabamosque">Alshaba Mosque</string>
+    <string name="coloredcanyonsinai">colored canyon sinai</string>
+    <string name="peaceicon">Peace Icon</string>
+    <string name="sohosunset">soho sunset</string>
+    <string name="mountcat">Mount catrein</string>
+    <string name="dolphinpark">Dolphin Park</string>
+    <string name="rasmohamed">"RasMohamed "</string>
+    <string name="safri">Safri</string>
+    <string name="sghazalagarden">GhazalaGarden</string>
+    <string name="petrasightseeing">Petra Sightseeing</string>
+    <string name="abosimple">Abo simple temple</string>
+    <string name="alkarnk">Karanak Temple</string>
+    <string name="kalabsha">Temple of kalabsha</string>
+    <string name="komobo">Temple of komobo</string>
+    <string name="ramses">Temple of Ramses</string>
+    <string name="sohailisland">Sohail Island</string>
+    <string name="valentin">Valentin Island</string>
+    <string name="ajelicaisland">Ajelica Island</string>
+    <string name="highdam">Highdam Bridge</string>
+    <string name="abydoscity">Abydoscity</string>
+    <string name="deirelmedina">Deir El_Medina</string>
+    <string name="luxormusuem">Luxor Musuem</string>
+    <string name="motuarytemple">MotuaryTemple</string>
+    <string name="nadaland">Ndaland Park</string>
+    <string name="bananaisland">Banana Island</string>
+    <string name="vallyofking">Vallyofking</string>
+    <string name="vallyofqueen">vallyofqueen</string>
+    <string name="ramsuemtemple">RamsuemTemple</string>
+    <string name="intergarden">InterGarden</string>
+    <string name="luxorcorish">Luxor cournish</string>
+    <string name="luxortemple">Luxor Temple</string>
+    <string name="sahlhasheesh">Sahlhasheesh</string>
+    <string name="magwishisland">MagwishIsland</string>
+    <string name="jethonisland">jethonisland</string>
+    <string name="sandmusuem">SandMusuem</string>
+    <string name="aquirm">aquirm</string>
+    <string name="grazyland">Grazyland</string>
+    <string name="aldaybeach">Al_Daybeach</string>
+    <string name="sandbadvillage">sandbadvillage</string>
+    <string name="thrushtree">Thrush Tree</string>
+    <string name="meteorlake">Meteor lake</string>
+    <string name="abughosounwreck">Abughosoun Wreck</string>
+    <string name="portghali">Port Ghali</string>
+    <string name="berenicevillage">Berenice Village</string>
+    <string name="alsamadayreserve">Alsamaday Reserve</string>
+    <string name="wadielgemalreserve">WadielgemalReserve</string>
+    <string name="dolphinhouse">Dolphin House</string>
+    <string name="leadmountaun">Lead Mountain</string>
+    <string name="saltlake">Salt Lake</string>
+    <string name="theshali">TheShali</string>
+    <string name="templeoftheoracl">TempleoftheOracl</string>
+    <string name="sandsea">Great Sand Sea</string>
+    <string name="fatnasisland">Fatnas Island</string>
+    <string name="ghazala">Ghazala</string>
+
+    <string name="mountain">deadMountain</string>
+    <string name="housemusuem">HouseMusuem</string>
+    <string name="djaracave">Djara Cave</string>
+    <string name="aielgarden">Aiel Garden</string>
+    <string name="nabaqreserve">Nabq Reserve</string>
+    <string name="wadignai">WadiGnai</string>
+    <string name="coloredcanyons">coloredcanyons</string>
+    <string name="bluehole">BlueHole</string>
+    <string name="lighthouse">LightHouse</string>
+    <string name="canyon">canyon</string>
+    <string name="lagonisland">LagonIsland</string>
+    <string name="cleopatrabeach">cleopatrabeach</string>
+    <string name="agiba">Agiba Beach</string>
+    <string name="saltcave">SaltCve</string>
+    <string name="rommel">RommelBeach</string>
+    <string name="rommelcave">RommelCave</string>
+    <string name="algharam">Algharam</string>
+    <string name="ramses2">TempleOfRamses</string>
+    <string name="generalreserve">Generalreserve</string>
+    <string name="wadielrayen">WadielRayen</string>
+    <string name="jabelmedwar">Jabel medwar</string>
+    <string name="hawrapyrmid">Hawra Pyrmid</string>
+    <string name="pyrmidofseila">pyrmidofseila</string>
+    <string name="pyrmidofsenusret">pyrmidofsenusret</string>
+    <string name="pyrmidofamemhat3">pyrmidofamemhatIII</string>
+    <string name="wadihitan">WadiHitan</string>
+    <string name="qarunqpalace">Qarunqpalace</string>
+    <string name="comoshin">comoshin</string>
+    <string name="kranis">kranis</string>
+    <string name="tunisvillage">Tunis Village</string>
+    <string name="artcenter">Art Center</string>
+    <string name="citadel_des">The Citadel of Cairo or Citadel of Saladin
+        (Arabic: قلعة صلاح الدين, romanized: Qalaʿat Salāḥ ad-Dīn)
+        is a medieval Islamic-era fortification in Cairo, Egypt, built by Salah ad-Din (Saladin)
+        and further developed by subsequent Egyptian rulers. It was the seat of government in Egypt
+        and the residence of its rulers for nearly 700 years from the 13th to the 19th centuries.
+        Its location on a promontory of the Mokattam hills near the center of Cairo commands a strategic
+        position overlooking the city and dominating its skyline.
+        At the time of its construction, it was among
+        the most impressive and ambitious military fortification
+        projects of its time.[1] It is now a preserved historic site, including mosques and museums.</string>
+    <string name="egyptiannusuemdesc">The Egyptian Museum of Antiquities contains many important pieces of ancient Egyptian history. It houses the world\'s largest collection of Pharaonic antiquities. The Egyptian government established the museum built in 1835 near the Ezbekieh Garden and later moved to the Cairo Citadel. In 1855, Archduke Maximilian of Austria was given all of the artifacts by the Egyptian government; these are now in the Kunsthistorisches Museum, Vienna.
+
+A new museum was established at Boulaq in 1858 in a former warehouse, following the foundation of the new Antiquities Department under the direction of Auguste Mariette. The building lay on the bank of the Nile River, and in 1878 it suffered significant damage owing to the flooding of the Nile River. In 1891, the collections were moved to a former royal palace, in the Giza district of Cairo.[1] They remained there until 1902 when they were moved again to the current museum in Tahrir Square, built by the Italian company of Giuseppe Garozzo and Francesco Zaffrani to a design by the French architect Marcel Dourgnon.[2]
+
+In 2004, the museum appointed Wafaa El Saddik as the first female director general</string>
+    <string name="cairotowerdesc">From its 187 meters, the Cairo tower offers the most amazing panoramic views of the Egyptian capital. It is advised to go up to the tower circular observation deck in the late morning or late afternoon for the clearest views of the city.
+
+        You will also find a restaurant at the top of the tower.
+        Occasionally, the restaurant revolves around the tower is main axis
+        The tower was designed by the Egyptian architect, Naoum Chebib.
+        Its completion took 5 years, from 1956 to 1961.
+        Opening Hours: From 8 am to midnight. 
+    </string>
+    <string name="ashafamidesc">Designed by Italian architect Antonio Lasciac in a beautiful
+        , classic European style, the palace was built in 1907 by the Nile River in Zamalek
+        on an area of 2,700 square meters. he two-storey building contains five rooms with various
+        original textile art and European oil paintings. A room originally used for playing billiards 
+        and a billiards scoring board was turned into a living room, where the name of Fahmy  father has been 
+        engraved in the wood. The furniture in the living room doesn’t belong to Fahmy, as the government and curators carefully
+        chose the furniture to match the decorations in the room.</string>
+    <string name="elmoezdesc">It is a 1 km long pedestrian street, and to quote the UN, 
+        it has “the greatest concentration of medieval architectural treasures in the Islamic world”. 
+
+
+It might not be the Pyramids, but it is a definite must-see to get a true feel for the history of Cairo as a city,
+        and to see some frankly mind-blowing medieval Islamic architecture and art. And not in a stuffy, museum-type behind-the-glass environment
+        -- it’s a free pedestrian street with the architecture all around you, so you don’t have to worry about paying money to stare at super curated things that you a) don’t really understand, and b)
+        are kind of boring. One thing we can promise about Moez Street -- it is not boring, that’s for sure. 
+</string>
+    <string name="nationegdesc">The NMEC is the first of its kind in Egypt and the Arab world. It presents the full range of the richness and diversity of Egyptian civilization throughout the ages, from prehistoric times to the present day by focusing on its continuity and stability as demonstrated by its tangible and intangible heritage. The museum’s exceptional collection includes the royal mummies, which are exhibited in a new interactive display using 21st century cutting-edge technology to go beneath the wrappings and reveal their secrets, in addition to shedding light on the rituals and religious beliefs surrounding mummification in ancient Egypt.</string>
+    <string name="abdeendesc">Abdeen Palace is a historic Cairo palace built as one of the official residences for the former ruling monarchy and royal family of Egypt. It is now one of the official residences and the principal workplace of the President of Egypt, located above Qasr el-Nil Street in eastern Downtown Cairo, Egypt</string>
+    <string name="khanelkhalilidesc">Khan el-Khalili is a famous bazaar and souq in the historic center of Cairo, Egypt. Established as a center of trade in the Mamluk era and named for one of its several historic caravanserais, the bazaar district has since become one of Cairos main attractions for tourists and Egyptians alike</string>
+    <string name="elbarondesc">The Baron Empain Palace, better known as Le Palais Hindou, is a distinctive and historic Hindu temple inspired mansion in Heliopolis, a suburb northeast of central Cairo, Egypt. It was founded by Edward Louis Joseph Empain, a Belgian businessman who was awarded the title of "Baron" by the King of Belgium.</string>
+    <string name="saltlakedesc">Siwa has over 10 million palm tree, full of lakes . the nature combination of water /gold sand/greens/blue sky is beyond imagination. The most famous is the salt lake with its high percentage of salts and minerals. it is a relaxation ,healing shallow water where you can float.</string>
+    <string name="theshalidesc">The village of Shali in Siwa Oasis - Matrouh Governorate. "Shali" is a Siwi word meaning city. The village of Shali was built from the material of the archive, which is clay saturated with salt. If it dries up, it becomes similar to cement in its hardness. It is a unique style of construction, and it dates back to the sixth century AH / twelfth century AD.
+The city is surrounded by a sturdy building wall that has only one entrance called “The Bab Anshal”, meaning the gate of the City, and on the northern side of the city wall there is the ancient mosque, which is the oldest mosque built with mud in Africa, and after a century passed, a second gate was opened on the southern side of the wall near the oil press called “Bab Athrat”, meaning the new door and a third door opened after a century had passed, called “Qaduha” for women only.
+
+</string>
+    <string name="templeoforacledesc">is a spectacular, The temple of Amun, built during twenty-sixth Dynasty, the temple and its oracle flourished into the Greek and Roman times The temple was built on a top of mountains. The ruins of the temple can be reached by climbing a well-marked path up the side of the rock. According to a legend, the temple was built in honour of ham, the son of Noah, by Danaus the Egyptian, another legend relates the foundation of the temple to the Greek god Dionysus. While lost in the western desert. Dionysus was perishing of thirst, when A ram appeared and guided him to the spring of Agroumi, In Gratitude Dionysus erected this temple.
+Oracle, Manifestations of God, were highly revered in the ancient world, Able to see into the future they were consulted regularly before important decisions were
+made
+</string>
+    <string name="greatseadesc">The Great Sand Sea is an approximately 72,000 km² sand desert in the Sahara between western Egypt and eastern Libya in North Africa. Some 74% of the area is covered by sand dunes.</string>
+    <string name="fatnasislanddesc">Located in Siwa, within 0.8 mi of Island On Lake and 1.4 mi of Island On Lake, Marassina Fatnas Island camp provides accommodations with a garden and as well as free private parking for guests who drive. The property is around 1.9 mi from Lake, 2.4 mi from Old fortress of Shali and 3.1 mi from Mountain Of The Dead. The property is 4.3 mi from Cleopatra Spring.
+Featuring a private bathroom, rooms at the hostel also provide guests with a lake view.
+Guests at Marassina Fatnas Island camp can enjoy a halal breakfast.
+</string>
+    <string name="ghazaladesc">No reservation costs. Great rates. Book at over 1,400,000 hotels online. No Booking Fees. 24/7 Customer Service. Best Price Guarantee. We speak your language. Read Real Guest Reviews. Get Instant Confirmation. Types: Hotels, Apartments, Villas, Hostels, Resorts.</string>
+    <string name="deadmountaindesc">mountain contains number of tombs. The tombs, which cover every inch of its base and are situated on its terraces and on all sides of the conical part, date from the 26th dynasty , the Greek and the Roman periods, though there appear to be no Christian burials.
+
+
+One of the most famous tombs is that of SiAmun which is considered the most beautiful one in the oasis of the Western desert. The tomb dates to about the 3rd century BC. It was discovered in October,1940 and unfortunately, some of its decorations were badly damaged by soldiers in Siwa at that time, who cut away parts of the painted plaster. The tomb, as with others in the area, was robbed during the Roman period.
+</string>
+    <string name="housemusuemdesc">The Museum at Siwa is an example of what the traditional house looks like in Siwa Oasis, Siwa House Museum also has a great collection of displays for daily-life tools and accessories used by Siwan people.
+The Siwan house ceilings and doors are made of palm wood, and mud and olive leaves help strengthen the roof against the rain. Most of the houses in Siwa as we can see them during Egypt Tours have two floors and a rooftop terrace, where they sleep in the summer or sit in the evening for dinners and chats in the open air.
+</string>
+    <string name="djarcavedesc">The quiet and mystical desert, with its bedrock formations fighting the gravity, is interrupted by one of the most beautiful pre-historic sites in the western desert; Djara Cave . The cave contains the only rock-art depictions in a 250 km range, with perfectly preserved scenes of gazelles and other wild animals. The dripstone roof of the cave formed by the crystal depositions during millions of years, adds to the magical beauty of this place. El Farafra Oasis is a quiet and mystical desert, it is known as the White Desert.</string>
+    <string name="abusimpletempledesc">
+Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel , Aswan Governorate, Upper Egypt, near the border with Sudan. It is situated on the western bank of Lake Nasser, about 230 km 140 mi southwest of Aswan (about 300 km (190 mi) by road). The complex is part of the UNESCO World Heritage Site known as the Nubian Monument which run from Abu Simbel downriver to Philae near Aswan, and include Amada, Wadi es Sebua, and other Nubian sites. The twin temples were originally carved out of the mountainside in the 13th century BC, during the 19th Dynasty reign of the Pharaoh Ramesses II. They serve as a lasting monument to the king Ramesses II. His wife Nefertari and children can be seen in smaller figures by his feet, considered to be of lesser importance and were not given the same position of scale. This commemorates his victory at the Battle of Kadesh. Their huge external rock relief figures have become iconic.
+</string>
+    <string name="karnaktempledesc">The Karnak Temple Complex, commonly known as Karnak  which was originally derived from Khurnaq fortified village 2, comprises a vast mix of decayed temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I reigned 1971–1926 BCE in the Middle Kingdom around 2000 1700 BCE and continued into the Ptolemaic Kingdom 305 30 BCE, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet isut The Most Selected of Places and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes, and in 1979 it was inscribed on the UNESCO World Heritage List along with the rest of the city. The Karnak complex gives its name to the nearby, and partly surrounded, modern village of ElKarnak, 2.5 kilometres 1.6 miles north of Luxor.</string>
+    <string name="templeofkalabshadesc">The Temple of Kalabsha also Temple of Mandulis is an ancient Egyptian temple that was originally located at Bab al-Kalabsha Gate of Kalabsha, approximately 50 km south of Aswan.1 The temple was inscribed on the UNESCO World Heritage List in 1979, along with other outstanding examples of Nubian architecture including Abu Simbel and Amada 2
+The temple was situated on the west bank of the Nile River, in Nubia, and was originally built around 30 BC during the early Roman era. While the temple was constructed in Augustus reign, it was never finished. The temple was a tribute to Mandulis Merul, a Lower Nubian sun god. It was constructed over an earlier sanctuary of Amenhotep
+
+</string>
+    <string name="templeofkomobodesc">The Temple of Kom Ombo is an unusual double temple in the town of Kom Ombo in Aswan Governorate, Upper Egypt. It was constructed during the Ptolemaic dynasty, 180 47 BC Some additions to it were later made during the Roman period.
+The building is unique because its double design meant that there were courts, halls, sanctuaries and rooms duplicated for two sets of gods. The southern half of the temple was dedicated to the crocodile god Sobek, god of fertility and creator of the world with Hathor and Khonsu. Meanwhile, the northern part of the temple was dedicated to the falcon god Haroeris Horus the Elder, along with Tasenetnofret the Good Sister, a special form of Hathor or Tefnet Tefnut and Panebtawy Lord of the Two Lands The temple is atypical because everything is perfectly symmetrical along the main axis.
+</string>
+    <string name="ramsesdesc">Temple of Ramses , site of two temples built by the Egyptian king Ramses II reigned 1279 13 bce,  southern Egypt. In ancient times the area was at the southern frontier of pharaonic Egypt, facing Nubia.
+ the temples were salvaged from the rising waters of the Nile River caused by erection of the Aswan High Dam.
+</string>
+    <string name="sohaliislanddsec">The island of Suhail located in the south of Aswan Governorate is considered one of the places of tourism in Aswan, as it is the address of beauty and elegance when the beauty of charming nature meets with the mystery of the past surrounded by curiosity and passion, which attracts Egyptian lovers to discover more secrets that baffle the world until now, and is tempted to take memorial photos.</string>
+    <string name="valentinislanddesc">Located in the centre of the River Nile and between the Cataract Islands opposite Aswan City,  sits the pretty relaxing Island of Lord Kitchener. Often a welcome excursion to many visitors wishing for a relaxing few hours in a green environment, cafe and Nile Views especially during the hotter months of the year.
+
+Location:
+
+A Felucca ride by local boat from the Corniche in Aswan and a 3 hour drive from Luxor City with an option to fly from Cairo to Aswan in about 1 hour.
+</string>
+    <string name="ajelicaislanddesc">Agilkia Island also called Agilika Arabic  is an island in the reservoir of the Old Aswan Dam along the Nile River in southern Egypt it is the present site of the relocated ancient Egyptian temple complex of Philae. Partially to completely flooded by the old dams construction in 1902, the Philae complex was dismantled and relocated to Agilkia island, as part of a wider UNESCO project related to the 1960s construction of the Aswan High Dam and the eventual flooding of many sites posed by its large reservoir upstream.
+Agilkia, like the island, was the name chosen for the planned landing site on a comet by the Rosetta spacecraft missions Philae lander. Upon initial touchdown however, the lander took a large bounce followed by a smaller one before finally coming to rest perhaps a kilometre away from Agilkia, at a site named Abydos, after the ancient Egyptian city
+</string>
+    <string name="highdambridgedesc">The Aswan Dam, or more specifically since the 1960s, the Aswan High Dam, is the world largest embankment dam, which was built across the Nile in Aswan, Egypt, between 1960 and 1970. Its significance largely eclipsed the previous Aswan Low Dam initially completed in 1902 downstream. Based on the success of the Low Dam, then at its maximum utilization, construction of the High Dam became a key objective of the government following the Egyptian Revolution of 1952 with its ability to better control flooding, provide increased water storage for irrigation and generate hydroelectricity, the dam was seen as pivotal to Egypt planned industrialization. Like the earlier implementation, the High Dam has had a significant effect on the economy and culture of Egypt.</string>
+    <string name="deirdesc">Deir el-Medina (Egyptian Arabic: دير المدينة), or Dayr al-Madīnah, is an ancient Egyptian workmens village which was home to the artisans who worked on the tombs in the Valley of the Kings during the 18th to 20th Dynasties of the New Kingdom of Egypt (ca. 1550–1080 BCE)[2] The settlements ancient name was Set maat (Place of Truth)and the workmen who lived there were called Servants in the Place of Truth.[3] During the Christian era, the temple of Hathor was converted into a church from which the Egyptian Arabic name Deir el-Medina (Monastery of the City) is derived.[4]
+At the time when the world press was concentrating on Howard Carters discovery of the Tomb of Tutankhamun in 1922, a team led by Bernard Bruyère began to excavate the site.[5] This work has resulted in one of the most thoroughly documented accounts of community life in the ancient world that spans almost four hundred years. There is no comparable site in which the organisation, social interactions, working and living conditions of a community can be studied in such detail.[6]
+</string>
+    <string name="abydocitydesc">Abydos ˈbaɪdɒs (Arabic: أبيدوس, romanized: Abīdūs; Sahidic Coptic: Ⲉⲃⲱⲧ Ebōt) is one of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres (6.8 miles) west of the Nile at latitude 26° 10 N, near the modern Egyptian towns of El Araba El Madfuna and El Balyana. In the ancient Egyptian language, the city was called Abdju (bḏw or AbDw). The English name Abydos comes from the Greek, a name borrowed by Greek geographers from the unrelated city of Abydos on the Hellespont.
+Considered one of the most important archaeological sites in Egypt, the sacred city of Abydos was the site of many ancient temples, including Umm el-Qaab, a royal necropolis where early pharaohs were entombed.[1] These tombs began to be seen as extremely significant burials and in later times it became desirable to be buried in the area, leading to the growth of the towns importance as a cult site.
+</string>
+    <string name="luxormusuemdesc">The Luxor Museum was inaugurated in 1975. It is a two-story building.The range of artifacts on display is far more restricted than the country main collections in the Egyptian Museum in Cairo this was, however, deliberate, since the museum prides itself on the quality of the pieces it has, the uncluttered way in which they are displayed, and the clear multilingual labeling used.
+The museum was conceived by the Egyptian Ministry of Culture, which hired Dr. Mahmud El Hakim, a top Egyptian architect, to create the plans in 1962.[2] The installation of the museum art works came later and was finished between 1972 and 1975
+</string>
+    <string name="motuarydesc">The mortuary temple of Hatshepsut (Egyptian: Ḏsr-ḏsrw meaning "Holy of Holies") is a mortuary temple built during the reign of Pharaoh Hatshepsut of the Eighteenth Dynasty of Egypt.[b] Located opposite the city of Luxor, it is considered to be a masterpiece of ancient architecture.[c] Its three massive terraces rise above the desert floor and into the cliffs of Deir el-Bahari. Her tomb, KV20, lies inside the same massif capped by El Qurn, a pyramid for her mortuary complex. At the edge of the desert, 1 km (0.62 mi) east, connected to the complex by a causeway lies the accompanying valley temple. Across the river Nile, the whole structure points towards the monumental Eighth Pylon, Hatshepsu most recognizable addition to the Temple of Karnak and the site from which the procession of the Beautiful Festival of the Valley departed. The temple twin functions are identified by its axes: its main east-west axis served to receive the barque of Amun-Re at the climax of the festival, while its north-south axis represented the life cycle of the pharaoh from coronation to rebirth</string>
+    <string name="ndalanddesc">It opened in April 2012, many, many issues and problems were discovered upon our first visit, some of which are still there today, almost one year on.
+
+This page has been created to share the journey, of some of these animals that have survived, or have not been returned to the original supplier in Cairo.
+
+Basic things, such as lack of knowledge, understanding and care, have resulted in many animals dying. Those that remain are  unhappy and malnourished.
+
+El Nada Land has started to build new enclosures for some of the animals, but it is a slow process and the animals are being neglected ie Food, cleaning the current inappropriate enclosures and water- The basic essentials for life.
+
+I care about all of the animals, but in particular, I have gained a respect and love, for Robbie, the Patas monkey, that lives
+alone. Despite her horrid life, she is the most dignified lady and the main attraction of this place.
+
+I visit weekly, sometimes more, but every time I visit, I struggle emotionally, it breaks my heart, to see animals so unhappy.
+At this stage of the rebuilding, the current animal organisations that exist in Egypt, should be working with El Nada Land, to ensure all is correct and built to a standard, thus providing the very best for these poor creatures.
+The owner is willing to co operate and needs help, support and advice, as well as the staff that Look after Robbie and her friends.
+</string>
+    <string name="bananaislanddesc">Discover this unique and unusual Banana Island Tour in Luxor to enjoy our Egypt Day Tours to the Banana Island (Gezira el-Mozh), placed along the Nile valley, and draws visitors from all over the world with its famous activity, banana plantation. You will get to learn about how bananas are being conserved and planted, as well as the important care given to their maturity. then take your time to relax in the outdoor cafe to test some yummy foods and drinks. Or take your picnic to experience in the outdoor setting.</string>
+    <string name="vallyofkingdesc">The Valley of the Kings (Arabic: وادي الملوك Wādī al-Mulūk; Coptic: ϫⲏⲙⲉ, romanized: džēme[1] Late Coptic: [ˈʃɪ.mæ]), also known as the Valley of the Gates of the Kings (Arabic: وادي أبواب الملوك Wādī Abwāb al-Mulūk),[2] is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock-cut tombs were excavated for the pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt).[3][4]
+The valley stands on the west bank of the Nile opposite Thebes (modern Luxor), within the heart of the Theban Necropolis.[5] The wadi consists of two valleys: the East Valley (where the majority of the royal tombs are situated) and the West Valley (Valley of the Monkeys).[6][7]
+</string>
+    <string name="vallyofqueendesc">The Valley of the Queens (Arabic: وادي الملكات Wādī al Malekāt) is a site in Egypt, where the wives of pharaohs were buried in ancient times. It was known then as Ta-Set-Neferu, meaning "the place of beauty". It was most famous for being the burial site of many wives of Pharaohs.[1] Pharaohs themselves were buried in the Valley of the Kings.[2]
+Using the limits described by Christian Leblanc, the Valley of the Queens consists of the main wadi, which contains most of the tombs, along with the Valley of Prince Ahmose, the Valley of the Rope, the Valley of the Three Pits, and the Valley of the Dolmen. The main wadi contains 91 tombs and the subsidiary valleys add another 19 tombs. The burials in the subsidiary valleys all date to the 18th Dynasty.[3]
+The reason for choosing the Valley of the Queens as a burial site is not known. The close proximity to the workers village of Deir el-Medina and the Valley of the Kings may have been a factor. Another consideration could have been the existence of a sacred grotto dedicated to Hathor at the entrance of the Valley. This grotto may have been associated with rejuvenation of the dead.[3]
+</string>
+    <string name="ramsuemdesc">The Ramesseum is the memorial temple (or mortuary temple) of Pharaoh Ramesses II ("Ramesses the Great", also spelled "Ramses" and "Rameses"). It is located in the Theban Necropolis in Upper Egypt, on the west of the River Nile, across from the modern city of Luxor. The name – or at least its French form Rhamesséion – was coined by Jean-François Champollion, who visited the ruins of the site in 1829 and first identified </string>
+    <string name="intergardendesc">The International Garden is a public park on Abbas El Akkad Street in Nasr City, Cairo. It is called "international" because each country has a part of the park, where its most famous trees and animals and the most prominent features of it are located. There is a special section for the UAE, another for Saudi Arabia and Bahrain, another for Japan, and for all Arab or foreign countries. It is heavily subsidized by the Egyptian government and even makes its entry fee low for all to enjoy.</string>
+    <string name="cournishdesc">The Nile Corniche is a global walkway in the city of Luxor, with its unique archaeological character, and it constitutes a masterpiece on the Luxor Nile, as it embraces the fragrant history and the famous Luxor temples. Egyptians and foreigners after turning it into a tourist attraction and a unique outlet for the people of Luxor.
+
+</string>
+    <string name="luxortempledesc">The Luxor Temple (Arabic: معبد الأقصر) is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor (ancient Thebes) and was constructed approximately 1400 BCE. In the Egyptian language it was known as ipet resyt, "the southern sanctuary". It was one of the two primary temples on the east bank, the other being Karnak.[1] Unlike the other temples in Thebes, Luxor temple is not dedicated to a cult god or a deified version of the pharaoh in death. Instead, Luxor temple is dedicated to the rejuvenation of kingship; it may have been where many of the pharaohs of Egypt were crowned in reality or conceptually (as in the case of Alexander the Great, who claimed he was crowned at Luxor but may never have traveled south of Memphis, near modern Cairo).</string>
+</resources>

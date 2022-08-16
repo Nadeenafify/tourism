@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sharmel">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.615"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/sharm"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/sharm" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sharm"
+
+
+                    android:layout_marginTop="-57dp"
+                    android:text="@string/sharm"
+                    android:textColor="@color/white"
+                    android:textSize="40sp"
+
+                    android:textStyle="bold"
+                    android:layout_marginLeft="8dp"/>
+
+                <TextView
+                    android:id="@+id/placesinsharm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sharm"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="40dp"
+                    android:text="@string/places"
+                    android:textColor="#4D93CC"
+                    android:textSize="24sp" />
+
+
+                <ImageView
+                    android:id="@+id/alsahabamosque"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/placesinsharm"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/alsahabamosque" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/alsahabamosque"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:gravity="center"
+                    android:text="@string/alshabamosque"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/coloredsinia"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/placesinsharm"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/alsahabamosque"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/coloredcanyonsinai" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/alsahabamosque"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@+id/alsahabamosque"
+                    android:gravity="center"
+                    android:text="@string/coloredcanyonsinai"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@+id/placesinsharm"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@+id/coloredsinia"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/peaceicon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/coloredsinia"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/coloredsinia"
+                    android:text="@string/peaceicon"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/sohosunset"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/alsahabamosque"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/sohosunset" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sohosunset"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="@string/sohosunset"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/mountcat"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/alsahabamosque"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/sohosunset"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/mountcatherine" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/mountcat"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/sohosunset"
+                    android:text="@string/mountcat"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/alsahabamosque"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/mountcat"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/dolphinpark" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/mountcat"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/mountcat"
+                    android:text="@string/dolphinpark"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/rasmohamed"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/mountcat"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/rasmohamed" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rasmohamed"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:text="@string/rasmohamed"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/safri"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/mountcat"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/rasmohamed"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/safri" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rasmohamed"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/rasmohamed"
+                    android:text="@string/safri"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_below="@id/mountcat"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toRightOf="@id/safri"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ghazalagarden" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/safri"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="-20dp"
+                    android:layout_toRightOf="@id/safri"
+                    android:text="@string/sghazalagarden"
+                    android:textColor="@color/white"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+
+
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
