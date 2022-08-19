@@ -104,6 +104,7 @@
                         android:layout_marginLeft="8dp"
                         />
                     <ImageView
+                        android:id="@+id/abughosounwreck"
                         android:layout_width="120dp"
                         android:layout_height="100dp"
                         android:layout_toRightOf="@+id/lake"
@@ -164,6 +165,7 @@
                         android:layout_marginLeft="8dp"
                         android:textStyle="bold"/>
                     <ImageView
+                        android:id="@+id/alsamadyreseve"
                         android:layout_width="120dp"
                         android:layout_height="100dp"
                         android:scaleType="centerCrop"
@@ -224,7 +226,7 @@
                         android:layout_marginLeft="8dp"
                         android:textStyle="bold"/>
                     <ImageView
-                        android:id="@+id/mount"
+                        android:id="@+id/leadmountain"
                         android:layout_width="120dp"
                         android:layout_height="100dp"
                         android:scaleType="centerCrop"

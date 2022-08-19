@@ -16,6 +16,9 @@
     <string name="alamein">Alalmein</string>
     <string name="pyrmid">Pyrmids</string>
     <string name="book">book</string>
+    <string name="alazher">Alazher park</string>
+    <string name="thezoo">the zoo</string>
+    <string name="sphinx">great sphinx</string>
     <string name="places">top places</string>
     <string name="citadel">citadel</string>
     <string name="egyptmusuem">egyption musuem</string>
@@ -253,4 +256,153 @@ The reason for choosing the Valley of the Queens as a burial site is not known. 
 
 </string>
     <string name="luxortempledesc">The Luxor Temple (Arabic: معبد الأقصر) is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor (ancient Thebes) and was constructed approximately 1400 BCE. In the Egyptian language it was known as ipet resyt, "the southern sanctuary". It was one of the two primary temples on the east bank, the other being Karnak.[1] Unlike the other temples in Thebes, Luxor temple is not dedicated to a cult god or a deified version of the pharaoh in death. Instead, Luxor temple is dedicated to the rejuvenation of kingship; it may have been where many of the pharaohs of Egypt were crowned in reality or conceptually (as in the case of Alexander the Great, who claimed he was crowned at Luxor but may never have traveled south of Memphis, near modern Cairo).</string>
+    <string name="pyrmids">Pyrmids</string>
+    <string name="solarboat">"Solar boat "</string>
+    <string name="pharonic">Pharonic village</string>
+    <string name="alazhermosque">Alazher mosque</string>
+    <string name="alorman">Alorman Park</string>
+    <string name="thegrand">The grand eg musuem</string>
+    <string name="pyrmidsdesc">The Egyptian pyramids are ancient masonry structures located in Egypt. Sources cite at least 118 identified "Egyptian" pyramids
+        .[1][2] Approximately 80 pyramids were built within the Kingdom of Kush, now located in the modern country of Sudan.
+        Of those located in modern Egypt, most were built as tombs for the country pharaohs and their consorts during the Old and Middle Kingdom periods.[3][4][5]
+
+The earliest known Egyptian pyramids are found at Saqqara, northwest of Memphis,
+        although at least one step-pyramid-like structure has been found at Saqqara,
+        dating to the First Dynasty Mastaba 3808, which has been attributed to the reign of Pharaoh Anedjib,
+        with inscriptions, and other archaeological remains of the period, suggesting there may have been others.
+
+
+The most famous Egyptian pyramids are those found at Giza, on the outskirts of Cairo.
+        Several of the Giza pyramids are counted among the largest structures ever built.
+
+       </string>
+    <string name="solarboatdesc">The Giza Solar boat museum is located in Egypt. It was constructed around 1985 and was dedicated to display the reconstructed Khufu ship, a solar barque this however was relocated to the Grand Egyptian Museum in August 2021.[1]
+    The museum lies just a few meters from where it was found on the southern side of the pyramid.[3] It was constructed next to the Great Pyramid of Khufu. The museum was equipped with modern techniques and technologies in order to preserve the solar boat. The museum was constructed so as to enable viewing the boat from three different levels in three floors.
+        On the ground floor, one could view the bottom of the boat.</string>
+    <string name="pharonicdesc">The village covers 490,000 square feet at Ya aqoub Island . It is surrounded by 5000 trees tall enough to screen adjacent vestiges of modern life, making a visitor feel as if gone back 5000 years in history .
+
+The idea of this village occurred to Dr. Hassan Ragab 20 years ago, when he first came to Ya aqoob Island to grow papyrus necessary for paper fabrication, an art which he brought back to life after it had disappeared for l000 years.
+
+The pharaonic village represent industries, games, arts and moments from history and legend. There are also services such as cafeterias, boat rentals, a childrens playground and a restaurant that serves both Egyptian and European dishes which help to make your stay even more enjoyable.</string>
+    <string name="alazherdesc">Al-Azhar Park (Arabic: حديقة الأزهر) is a public park located in Cairo, Egypt.
+
+Among several honors, this park is listed as one of the world is sixty great public spaces by the Project for Public Spaces.[1] The park was created by the Historic Cities Support Programme of the Aga Khan Trust for Culture, an entity of the Aga Khan Development Network. The park was developed at a cost in excess of USD $30 million, its funding a gift to Cairo from Aga Khan IV, a descendant of the Fatimid Caliphs of Cairo.</string>
+    <string name="alazhermosquedesc">While there are hundreds of old mosques to visit in Cairo, there is none that can compete with Al-Azhar Mosque in standing and importance to the history of Islam. Founded by the Fatimids in 970 AD as a mosque dedicated to both worship and learning, it developed over the centuries into the most important center of Islamic theology and learning in the world.
+
+
+
+Over a thousand years since its founding, Al-Azhar Mosque and the university that bears its name draw students from all over the world to learn about the history of Islam and the different schools of thought that govern the interpretation of the Koran.
+
+
+
+From its founding, Al-Azhar University was an institution that revealed in pluralism. Founded by the Ismaili Shii Fatimid Dynasty, it became a Sunni university under subsequent dynasties in Egypt, but, in spite tension between these different theologies, Sunni and Shii scholars have worked, taught, and debated alongside one another at Al-Azhar for most of its history.
+         .</string>
+    <string name="alormandec">Al Orman Park lies in the district of Doqqui, in the city of Giza, near the Zoo and the Cairo University. The park, a large green space once part of the gardens of the Khedive Ismail is palace, was designed as a botanical garden with 100,000 kinds of rare plants. It hosts a spring flower show that started in 1920 and soon developed from a one-day event on the first day of the spring season into a weekly event with a competition offering a prize for the best flowers on show.</string>
+    <string name="thezoodesc">The zoo, this can be the oldest and oldest park, which was one in all the foremost important huge parks in Africa and therefore the Middle East, and per chronological monitoring, it is the third zoo within the world, and therefore the first in Africa, that park was a natural product of the Egyptian historical relationship with pets and wild animals. and therefore the plane, which came to observe us how Queen Cleopatra and therefore the ancient kings of the Pharaohs wont to like to collect animals during their trips in Africa to display them in their palaces, and although the quantity of its visitors exceeds 1,000,000 visitors annually, most Egyptians do not bring it to mind except on holidays and occasions.</string>
+    <string name="thegrandegmusuemdesc">The GEM is built on a slope and straddles the 162 foot difference in levels between the Nile valley, where you enter, and the Giza plateau, where the main galleries are situated. There are sculpture gardens in the museum park, while a massive statue of Ramses II greets you upon entry into the main atrium. From here, the Grand Staircase, which leads from valley level to plateau, will be lined with 87 statues of kings and gods.</string>
+
+    <string name="sphinxdesc">The Great Sphinx is among the worlds largest sculptures, measuring some 240 feet (73 metres) long and 66 feet (20 metres) high. It features a lions body and a human head adorned with a royal headdress. The statue was carved from a single piece of limestone, and pigment residue suggests that the entire Great Sphinx was painted. According to some estimates, it would have taken about three years for 100 workers, using stone hammers and copper chisels, to finish the statue.</string>
+    <string name="citbeydesc">The Citadel of Qaitbay (or the Fort of Qaitbay; Arabic: قلعة قايتباي) is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was built from 1477 to 1479 AD (882–884 AH) by Sultan Al-Ashraf Sayf al-Din Qait Bay.[2] The Citadel is situated on the eastern side of the northern tip of Pharos Island at the mouth of the Eastern Harbour.[3]
+The Qaitbay Citadel in Alexandria is considered one of the most important defensive strongholds, not only in Egypt, but also along the Mediterranean Sea coast. It formulated an important part of the fortification system of Alexandria in the 15th century AD.
+</string>
+    <string name="abuqirdesc">Abu Qir (Arabic: ابو قير, Abu Qīr, [æbu] or [æbo ʔiːɾ], Coptic: ⲁⲡⲁⲕⲩⲣⲓ Apakyri), formerly also spelled Abukir or Aboukir,[1] is a town on the Mediterranean coast of Egypt, near the ruins of ancient Canopus and 23 kilometers (14 mi) northeast of Alexandria by rail. It is located on Abu Qir Peninsula, with Abu Qir Bay to the east.
+The town present name is Arabic for "Father Cyrus", one of a pair of fourth century Christian martyrs venerated as Saints Cyrus and John by the Coptic Church.
+The remains of many ancient buildings from the Egyptian, Greek and Roman periods can be found near the town. About 3 kilometers (2 mi) southeast of the town are the ruins of the Ancient Egyptian coastal town of Canopus. A little farther east, the now-dry Canopic branch of the Nile once entered the Mediterranean.
+</string>
+    <string name="abasmosquedesc">The Abu al-Abbas al-Mursi Mosque (Arabic: جامع أبو العباس المرسي) is an Egyptian mosque in the city of Alexandria. It is dedicated to the 13th century Murcian Andalusi Sufi saint Abul Abbas al-Mursi, whose tomb it contains.
+It is located in the Anfoushi neighborhood of Alexandria, near the Citadel of Qaitbay.
+Abul Abbas al-Mursi died in 1286 and was buried here. The mosque was first built in 1307.
+The mosque was designed and built in today current form by Eugenio Valzania and Mario Rossi in the years 1929/1945, and was highly influenced by Egypt Old Cairo buildings and architecture.
+It served in turn as a key source of inspiration for the much larger Sheikh Zayed Mosque in Abu Dhabi, completed in 2007 after more than a decade of building work.
+</string>
+    <string name="boltcastledesc">Boldt Castle, located near Alexandria Bay, NY in the famed 1000 Islands is once again becoming what it was always meant to be,
+        the premier home and attraction in the region. Whether you are making an annual visit to see what is new, looking for an affordable family vacation close to home or a couple seeking that romantic getaway, Boldt Castle and the Boldt Yacht House has something for you! In fact, the Castles legendary beauty nestled among the St Lawrence Rivers 1000 Islands will keep you returning year after year</string>
+    <string name="lostcitydesc">Legend of Appearing a few rare inscriptions and ancient texts, the city of Thonis-Heracleion was hidden away for thousands of years, submerged deep under the sea.
+After searching for years by screening the vast area of the Abu Qir Bay off the coast of Egypt, French archaeologist Franck Goddio and his team saw a colossal face emerge from the watery shadows</string>
+    <string name="komeldikadesc">Kom El Deka (Arabic: كوم الدكة), also known as Kom el-Dikka,
+        is a neighborhood and archaeological site in Alexandria
+        , Egypt.[1] Early Kom El-Dikka was a well-off residential area,
+        and later it was a major civic center in Alexandria, with a bath complex (thermae), auditoria (lecture halls),
+        and a theatre.[2] Today, Kom el-Dikka is the largest and most complete above ground archeological site in Alexandria.
+        It provides large amounts of archeological evidence of urban life in Roman Egypt, including early villas and their mosaics, and late Roman public works.</string>
+    <string name="raseltindesc">Ras El Tin Palace (Arabic: قصر رأس التين Qaṣr Ras Al Tīn, literally, "Cape Fig Palace")
+        is a palace on the coast of the Mediterranean Sea in Alexandria, Egypt. It is one of the official residences for
+        a serving President of Egypt. Under the Muhammad Ali Dynasty of Egypt and Sudan, it was a royal palace. Ras El Tin
+        Palace is the oldest royal Egyptian palace still in use. The palace is located in the Ras el-Tin quarter of Alexandria
+        overlooking the city Western Harbour.[1] It was built on a promontory which in antiquity had been the site of the island of Pharos.</string>
+    <string name="alexlibrarydesc">The Bibliotheca Alexandrina (Latin[1] for "Library of Alexandria"; Egyptian Arabic: مكتبة الإسكندرية Maktabet al-Eskendereyya,
+        Egyptian Arabic: [mæk tæb(e)t eskendeˈɾejjæ]) is a major library and cultural center on the shore of the Mediterranean Sea in the Egyptian city of Alexandria.
+        It is a commemoration of the Library of Alexandria, once one of the largest libraries worldwide, which was lost in antiquity. The idea of reviving the old library
+        dates back to 1974, when a committee set up by Alexandria University selected a plot of land for its new library. Construction work began in 1995 and, after some
+        US$220 million had been spent, the complex was officially inaugurated on 16 October 2002. In 2010, the library received a donation of 500,000 books from the Bibliothèque
+        nationale de France (BnF). The gift makes the Bibliotheca Alexandrina the sixth-largest Francophone library in the world.</string>
+    <string name="stanelydesc">Stanley (Arabic: ستانلي) is a neighborhood near the city centre of Alexandria.
+        The area is most famous for the iconic Stanley Bridge on the Corniche, as well as its private-access beach.
+        The bridge has a total length of 400 meters with 6 spans . It is the first bridge in Egypt to be constructed into the sea
+        , with total length of 400 m. Considered of 6 spans , It constitute amajor part of the reconstruction and decoration of Alexandria cornich . </string>
+    <string name="montazhdesc">Montaza Palace (Arabic: قصر المنتزه) is a palace, museum and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea.
+The extensive Montaza Palace grounds first had the Salamlek Palace, built in 1892 by Khedive Abbas II, the last Muhammad Ali Dynasty ruler to hold the Khedive title over the Khedivate of Egypt and Sudan. It was used as a hunting lodge and residence for his companion.
+</string>
+    <string name="aielgardendesc">The Snake Park in Dahab is one of the amazing areas that have been discovered recently, and it is one of the most terrifying and beautiful areas at the same time for diving enthusiasts, and this is because this park is all under the water. We will know him now.</string>
+    <string name="nabqreservedesc">Nabq Reserve was declared a nature reserve in 1992, with an area of 600 km2 (of which 440 km2 is on dry land in addition to 130 km2 in the water range). The reserve is 35 km north of Sharm El Sheikh. In late 2010, the reserve was used as a safe beach for tourists to practice swimming after the famous shark attack on the beaches of Sharm El-Sheihk . </string>
+    <string name="wadignaidesc">Wadi Gnai is a little oasis and one could say that it is located directly behind the Sunsplash Divers Resort backdoor.
+Hike through this calming landscape, into the palm grove and the abandoned gardens of the Bedouins. As there is water in Wadi Gnai it is always lush and green – and in the rare event of rain you will be able to find many different types of desert flowers in full bloom.
+
+
+</string>
+    <string name="coloredcanyonsdesc">the Colored Canyon might confuse your eyes with such a spectacular view.
+Hidden in the desert in an area called the Sinai Peninsula, the Colored Canyon is one of those best-kept secrets of the marvelous country of the Great Pyramids.
+Located at 210 miles from the big city of Cairo, the Colored Canyon is found in the area of the Sinai. The Colored Canyon is 800 meters long and has a depth of 30 meters.
+
+Nuweiba, a very laid back and a small village in Egypt, is the closest town to the Colored Canyon.
+</string>
+    <string name="blueholedesc">The Blue Hole is a diving location on the southeast Sinai, a few kilometres north of Dahab, Egypt on the coast of the Red Sea.
+The Blue Hole is a submarine sinkhole, with a maximum depth within the hole of just over 100 m (328 feet). There is a shallow opening to the sea around 6 m (20 feet) deep, known as "the saddle", and a 26 m (85 feet) long tunnel, known as "the Arch", whose ceiling is at a depth of 55 m (181 feet) and whose bottom falls away as it reaches the seaward side to about 120 m (394 feet).[1] On the seaward side the floor drops steeply to over 1,000 metres (3,300 ft).[2] The hole and the surrounding area have an abundance of coral and reef fish.[2] The Blue Hole is popular for freediving because of the depth directly accessible from shore and the lack of curre
+</string>
+    <string name="lighthousedesc">The Lighthouse is a very popular dive site in Dahab; it is perfect for teaching all levels, from open water to technical. As the Lighthouse is a site which has one of the easiest entries and exits and it is always sheltered from the wind, diving here is always possible. As you step in the water you will find a shallow sandy area that slowly drops off into a large grassy slope. Look out for seahorses and pegasus seamoths that generally occur in pairs. There is also a good chance to find the rare anglerfish.</string>
+    <string name="canyondesc">The Dahab Canyon is the classic canyon, an essential dive for all fanatics of caves and cavern diving. The Canyon is itself quite a phenomenon. Up to 10 meters high and virtually closed over at the top, it snakes its way up from the depths, to emerge in a large glassfish filled coral dome. The Canyon dive site offers an easy entry and exit point through a shallow, sandy lagoon. This leads out to beautiful coral gardens inhabited by Butterflyfishes, Unicornfishes, Octopus, Pufferfish and of course Red Sea Anthias, which can only be fully explored after several visits. The Canyon itself is positioned about five minutes north-east from the exit of the lagoon. The entry to the Canyon is done through it largest point at about 20 meters. The progression through the Canyon is easy and the light effect caused by the sun rays is fantastic.</string>
+    <string name="lagonislanddesc">A serene haven of beauty  comfort. A place to unwind, chill  relax. Very safe for kids as well. extremely romantic for couples. A hub for kite surfers, divers, and snorkeling activities. Food  beverage retail is available complemented with toilets facility. A must destination if you are visiting Dahab.
+ It is very beautiful beach (closed lagoon) with crystal color water, and no rocks, and no corals. It is perfect for professional kite surf. There are very limited poor services there (only shadow, Bedouin tea, or soft drink) and no Egyptian signal at all, and no fresh water shower. To go there, you have to ride a car to blue hole, then a boat to Abu Galoom, then a vehicle to blue lagoon.
+</string>
+    <string name="thrushtreedesc">At low tide, Qulaan reveals four sandy, golden islands, with a touch of green mangrove trees growing out of the sea.
+
+Located in the south of Egypt, in the protected area of the National Park of Wadi El Gemal, 170 Kms from Port Ghalib. These sights are not a work of fiction but a reality more beautiful than what a writer can describe or a photographer can capture.
+
+Qulaan Islands stretch over a bay that is divided into four pieces of land with mangrove trees all around. This setting creates a sustainable eco-system for the wildlife under the sea and the birds that come to feed.</string>
+    <string name="meteorlakedesc">It is a natural pool, made of a unique rock formation, which is believed by the area inhabitants to have been shaped by a meteorite, hitting the coast, located 8 kms south Marsa Alam, 20 minutes from Port Ghalib. The pool, several meters in diameter, is shaped like an eye filled with the turquoise blue waters of the Red Sea. The pool is around 8-10 meters depth.</string>
+    <string name="abughOsounwreckdesc">The wreck has attracted many types of coral and marine life including Napoleons, Lionfish, Parrotfish, Surgeon fish, Butterflyfish and Moray eel. Suitable for all diving levels providing suitable precautions taken and a guide present. Nudibranch, lionfish, lionfish, sweet lip, bannerfish, butterfly fish, Spanish dancer (night), crocodile fish, sweeper, Mediterranean moray or roman eel, ray. </string>
+    <string name="portghalidesc">Port Ghalib is located in Marsa Alam along the Southern Red Sea Coral Coast of Egypt, 67 kms south of Quseir City. It is an international destination, a premier integrated resort community of distinction, activity and variety; setting it apart from other resort communities in the region.</string>
+    <string name="berenicevillagedesc">Baranis, is an ancient seaport of Egypt on the western shore of the Red Sea. It is situated about 825 km south of Suez, 260 km east of Aswan in Upper Egypt and 140 km south of Marsa Alam.[2] It was founded in 275 BCE by Ptolemy II Philadelphus (285–246 BCE), who named it after his mother, Berenice I of Egypt.[3]
+
+A high mountain range runs along the African coast and separates the Nile Valley from the Red Sea; Berenice was sited upon a narrow rim of shore between the mountains and the Red Sea, at the head of the Sinus Immundus,[4] a south-facing bay sheltered on the north by a high peninsula then called Lepte Extrema, and to the south by a chain of small islands scattered across the mouth of the bay</string>
+    <string name="alsamadayreservedesc">The Samadai reef area, located in Marsa Alam, is shaped like a horseshoe, and is characterized by various coral reefs.
+
+
+
+This area was declared almost 21 years ago as a nature reserve for encompassing the largest gathering of spinner dolphins, coming in the third rank after the Hawaiian Islands in the first position, followed by Brazil in the second.</string>
+    <string name="wadielgemalreservedesc">Wadi El Gemal National Park is a national park in Egypt. It is 7,450 square kilometres (2,880 sq mi) in size, including 4,770 square kilometres (1,840 sq mi) of land and 2,100 square kilometres (810 sq mi) of marine space.[1]
+
+The coastal area features coral reefs with 450 species of coral and over 1200 species of fish. Approximately 17% of the marine life is native to the Red Sea.[2] It also includes five islands, including Wadi El Gemal Island</string>
+    <string name="dolphinhousedesc">The dolphin house Sataya Reef is the best snorkeling destination in the red sea. It will take two hours by boat to the south heading to the Sataya national park area, which is the most famous area as the home of dolphins, It is possible to see a large number of different types of dolphins: The most famous ones are the spinner dolphins, which are active and dynamic, The Sataya region has a large surface and is surrounded by coral reefs on three sides
+
+Read more about Sataya Dolphin House Snorkel Trip - Marsa Alam </string>
+    <string name="leadmountaindesc">Lead Mountain is located on private land, but can be hiked by the public. The primary route to Lead Mountain begins just north of the at the gated end of a dirt road southeast of the peak.[5] The route follows the dirt road beyond the gate before turning up a path that ascends southeast of the summit before continuing up the east side of the mountain to reach the summit.
+
+On a clear day views from the summit stretch to the south to Acadia National Park and the Gulf of Maine. There are two communication towers on the summit. South of the mountain is the small Bear Pond, while the much larger Upper Lead Mountain Pond is west of the mountain.</string>
+    <string name="alshabamosquedesc">The mosque is a very good representation of Islamic architecture in the new Era.  It attracts of all those who enter Sharm el-Sheikh city.
+
+ The mosque overlooking the sea at the entrance to the city of Sharm el-Sheikh. The mosque is built on an area of 3,000 square meters, with two 76-meter-long minarets. The roof of mosque rises 36 meters high. It can hold up to 3,000 worshippers. It has thirty-six bathrooms. It has two Mazatlán for praying .It also boasts a service area and a library with books in several languages. This is beside the service buildings and commercial units operating endowment of the mosque, to become the second largest mosque in the city after the Mustafa mosque.</string>
+
+    <string name="coloredcanyondesc">A visit to the canyon provides instant recognition of where it gets its name. The walls of the canyon, which reach up to sixteen stories, are easily the most colorful and intriguing rock formations in all of Sinai. They were created by the erosion of water upon sandstone and limestone. In some places, the deep coloration of rocks gives the canyon walls a prismatic and metallic sheen; in others, the stone is so smooth that it appears soft and billowy.</string>
+    <string name="peaceicondesc">the peace icon memorial in Sharm El Sheikh said that it is not just a memorial that the all world celebrated with during the economic conference event in the city, but it is a real icon for peace have been designed in a technical uniquely way that combines modernity with the Pharaonic civilization, as a direct message for the whole world that Egypt is the land of peace and the city of Sharm El Sheikh is the icon of peace, pointing out that the real surprise is recording this monument in the Guinness book of records as the largest and longest metal art work in the world.</string>
+    <string name="sohosunsetdesc">SOHO Square Sharm El Sheikh is the middle East leading shopping entertainment center, the finest in the Red Sea region. SOHO Square is a hub for entertainment, dining, clubbing, shopping, sport activities enhance with a dancing fountain, mega stage  kids fun activities</string>
+    <string name="mountcatrindesc">Although Saint Catherine was not established as a city at that time, it was always part of the Egyptian Empire throughout history and it was part of the province of "Deshret Reithu".
+
+In the 16th century BC, the Egyptian pharaohs built the way of Shur across Sinai to Beersheba and on to Jerusalem. The region provided the Egyptian Empire with turquoise, gold, and copper, and well-preserved ruins of mines and temples are found not far from Saint Catherine at Serabit el-Khadim and Wadi Mukattab, the Valley of Inscription. They include temples from the 12th Dynasty, dedicated to Hathor, goddess of love, music, and beauty, and from the New Kingdom dedicated to Sopdu, the god of the Eastern Desert.</string>
+    <string name="dolphinparkdesc">Dolphina Park is located at Nabq Bay. Tickets to the park can be booked directly or as part of an organized day trip.Although Viator tours do not include this activity, dolphin swims, trainer experiences, and diving sessions are available for purchase at the park for additional fees starting at $25.</string>
+    <string name="rasmohameddesc">It has stunning views across the Red Sea which gave the area huge strategic importance throughout history. Today, it is a beautiful National Park, set up to protect marine and land wildlife and maintain the natural beauty of the area. Not far south of the resort town of Sharm el –Sheikh, this protected area is a must-see for visitors interested in the vast array of natural beauty found in and around the Red Sea. With the building of any kind prohibited, Ras Mohammed remains a timeless and pristine environment in which nature flourishes.</string>
+    <string name="safridesc">A fantastic chance to experience real Bedouin life. Ride a camel, enjoy a quad safari, watch the beautiful sunset over the Sinai desert, drink and eat authentic Bedouin food, watch a great show of belly dancing, fire-breathing and more.
+
+Then stand back and watch the spectacular view of the milky way and stars through a telescope before getting back on your quad or buggy for a final safari through the desert.This trip runs every day.Upon arrival you will take part in a 45 minute quad safari to the bedouin camp then enjoy a 15 minute camel ride.  </string>
+    <string name="ghazalagardendesc">Just a five minute stroll from the centre of Naama Bay and five minutes to the beach it shares with The Ghazala Beach Hotel, the Ghazala Gardens offers a perfect balance of scale and facilities. The delightful gardens teem with exotic plants and a lagoon pool that give it a truly tropical feel. You can even swim right from your terrace with our poolside rooms! There are some delicious dining options, including one of Egypt few Brazilian restaurants.</string>
 </resources>

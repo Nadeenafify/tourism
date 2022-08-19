@@ -14,6 +14,144 @@
         android:theme="@style/Theme.Citesshow"
         tools:targetApi="31">
         <activity
+            android:name=".catrin_montain"
+            android:exported="false" />
+        <activity
+            android:name=".ghazala_garden"
+            android:exported="false" />
+        <activity
+            android:name=".safri"
+            android:exported="false" />
+        <activity
+            android:name=".ras_mohamed"
+            android:exported="false" />
+        <activity
+            android:name=".dolphin_park"
+            android:exported="false" />
+        <activity
+            android:name=".mount_catrein"
+            android:exported="false" />
+        <activity
+            android:name=".soho_sunset"
+            android:exported="false" />
+        <activity
+            android:name=".peace_icon"
+            android:exported="false" />
+        <activity
+            android:name=".colored_canyon_sinai"
+            android:exported="false" />
+        <activity
+            android:name=".alshaba_mosque"
+            android:exported="false" />
+        <activity
+            android:name=".lead_mountain"
+            android:exported="false" />
+        <activity
+            android:name=".dolphin_house"
+            android:exported="false" />
+        <activity
+            android:name=".wadielgemal_reserve"
+            android:exported="false" />
+        <activity
+            android:name=".alsamaday_reserve"
+            android:exported="false" />
+        <activity
+            android:name=".berenice_village"
+            android:exported="false" />
+        <activity
+            android:name=".port_ghali"
+            android:exported="false" />
+        <activity
+            android:name=".abughosoum_wreck"
+            android:exported="false" />
+        <activity
+            android:name=".metoer_lake"
+            android:exported="false" />
+        <activity
+            android:name=".thrush_tree"
+            android:exported="false" />
+        <activity
+            android:name=".lagon_island"
+            android:exported="false" />
+        <activity
+            android:name=".canyon"
+            android:exported="false" />
+        <activity
+            android:name=".light_house"
+            android:exported="false" />
+        <activity
+            android:name=".blue_hole"
+            android:exported="false" />
+        <activity
+            android:name=".colored_canyons"
+            android:exported="false" />
+        <activity
+            android:name=".wadi_gnai"
+            android:exported="false" />
+        <activity
+            android:name=".nabq_reserve"
+            android:exported="false" />
+        <activity
+            android:name=".aiel_garden"
+            android:exported="false" />
+        <activity
+            android:name=".elmontazh"
+            android:exported="false" />
+        <activity
+            android:name=".stanelt_bridge"
+            android:exported="false" />
+        <activity
+            android:name=".alex_library"
+            android:exported="false" />
+        <activity
+            android:name=".ras_eltin_palace"
+            android:exported="false" />
+        <activity
+            android:name=".kom_eldika"
+            android:exported="false" />
+        <activity
+            android:name=".the_lost_city"
+            android:exported="false" />
+        <activity
+            android:name=".boldt_castle"
+            android:exported="false" />
+        <activity
+            android:name=".abas_mosque"
+            android:exported="false" />
+        <activity
+            android:name=".abu_qir"
+            android:exported="false" />
+        <activity
+            android:name=".citbey_citadel"
+            android:exported="false" />
+        <activity
+            android:name=".great_sphinx"
+            android:exported="false" />
+        <activity
+            android:name=".the_grand_eg_musuem"
+            android:exported="false" />
+        <activity
+            android:name=".the_zoo"
+            android:exported="false" />
+        <activity
+            android:name=".alorman_park"
+            android:exported="false" />
+        <activity
+            android:name=".alazher_mosque"
+            android:exported="false" />
+        <activity
+            android:name=".alazher_park"
+            android:exported="false" />
+        <activity
+            android:name=".pharonic_village"
+            android:exported="false" />
+        <activity
+            android:name=".solar_boat"
+            android:exported="false" />
+        <activity
+            android:name=".pyrmids"
+            android:exported="false" />
+        <activity
             android:name=".luxorTemple"
             android:exported="false" />
         <activity
