@@ -102,6 +102,7 @@
                     android:layout_marginLeft="8dp"
                     />
                 <ImageView
+                    android:id="@+id/wadignai"
                     android:layout_width="120dp"
                     android:layout_height="100dp"
                     android:layout_toRightOf="@+id/nabaq"
@@ -162,6 +163,7 @@
                     android:layout_marginLeft="8dp"
                     android:textStyle="bold"/>
                 <ImageView
+                    android:id="@+id/lighthouse"
                     android:layout_width="120dp"
                     android:layout_height="100dp"
                     android:scaleType="centerCrop"

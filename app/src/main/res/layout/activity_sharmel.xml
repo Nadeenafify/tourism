@@ -105,6 +105,7 @@
                     android:textStyle="bold" />
 
                 <ImageView
+                    android:id="@+id/peaceicon"
                     android:layout_width="120dp"
                     android:layout_height="100dp"
                     android:layout_below="@+id/placesinsharm"
@@ -171,6 +172,7 @@
                     android:textStyle="bold" />
 
                 <ImageView
+                    android:id="@+id/dolphinpark"
                     android:layout_width="120dp"
                     android:layout_height="100dp"
                     android:layout_below="@id/alsahabamosque"
@@ -237,6 +239,7 @@
                     android:textStyle="bold" />
 
                 <ImageView
+                    android:id="@+id/ghazalagarden"
                     android:layout_width="120dp"
                     android:layout_height="100dp"
                     android:layout_below="@id/mountcat"
