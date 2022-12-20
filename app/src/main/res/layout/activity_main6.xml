@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity6">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="71dp"
+        android:src="@drawable/p3" />
+
+    <TextView
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:layout_marginLeft="19dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/info"/>
+
+
+    <LinearLayout
+
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+
+        <ImageView
+
+            android:layout_marginLeft="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/p2"/>
+
+        <TextView
+            android:textSize="15sp"
+             android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/b1"/>
+
+
+
+    </LinearLayout>>
+
+
+
+    <LinearLayout
+
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="10dp"
+
+            android:src="@drawable/p6" />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="this icon show table of available trips of each city and you can reserve by clicking on trip"
+            android:textSize="15sp" />
+
+
+
+    </LinearLayout>>
+
+
+
+    <LinearLayout
+
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+
+            android:layout_marginLeft="10dp"
+            android:layout_width="30dp"
+            android:layout_height="66dp"
+
+            android:src="@drawable/p10" />
+        <TextView
+
+
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="this icon show trips with offers and you can reserve by clicking on trip"/>
+
+
+
+    </LinearLayout>>
+
+    <LinearLayout
+
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+
+        <ImageView
+            android:src="@drawable/contact"
+
+            android:layout_marginLeft="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+           />
+
+        <TextView
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="this icon allow you to contact us if their is any problem"/>
+
+
+
+    </LinearLayout>>
+    <LinearLayout
+
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+
+        <ImageView
+            android:src="@drawable/admin"
+
+            android:layout_marginLeft="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            />
+
+        <TextView
+            android:textSize="15sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="this icon only for admins to add trips"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+       </LinearLayout>
+
+
+
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity22">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="375dp"
+        android:src="@drawable/contact" />
+
+
+
+    <TextView
+
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="please if you has any problem contact us"/>
+
+    <TextView
+        android:id="@+id/num1"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_500"
+        android:text="01129620138"/>
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/num2"
+        android:layout_marginLeft="30dp"
+        android:textSize="20dp"
+        android:textColor="@color/purple_500"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="01129620138"/>
+
+
+    <TextView
+        android:id="@+id/num3"
+        android:layout_marginLeft="30dp"
+        android:textSize="20dp"
+        android:textColor="@color/purple_500"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0133212166"/>
+
+
+</LinearLayout>

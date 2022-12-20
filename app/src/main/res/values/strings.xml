@@ -119,6 +119,43 @@
     <string name="pyrmidofseila">pyrmidofseila</string>
     <string name="pyrmidofsenusret">pyrmidofsenusret</string>
     <string name="pyrmidofamemhat3">pyrmidofamemhatIII</string>
+
+
+    <string name="cities">cities</string>
+    <string name="trips">trips</string>
+    <string name="offers">offers</string>
+    <string name="reserve">reserve</string>
+    <string name="location">location</string>
+    <string name="aboutapp">aboutapp</string>
+    <string name="about">about</string>
+    <string name="username">username</string>
+    <string name="Next">Next</string>
+    <string name="Tickit">Tickt</string>
+    <string name="Ticket">Tiket</string>
+    <string name="Name">Name</string>
+    <string name="Time">Time</string>
+    <string name="Date">Date</string>
+    <string name="To">To</string>
+    <string name="From">From</string>
+    <string name="Busnumber">Busnumber</string>
+    <string name="print">please dont forget to print or screen this ticket because you cant enter without it</string>
+    <string name="time">time</string>
+    <string name="price">price</string>
+    <string name="Add">Add</string>
+    <string name="info">this application help you to get information about touristic places in egypt and book your trip</string>
+    <string name="b1">This icon show cities and their touristic places in egypt</string>
+
+    <string name="b">this icon show table of available trips of each city  </string>
+    <string name="admins">admins</string>
+    <string name="password">password</string>
+    <string name="busnumber">busnumber</string>
+    <string name="AddTrip">AddTrip</string>
+    <string name="ShowTrips">ShoeTrips</string>
+    <string name="UpDateTrip">UpDateTrip</string>
+    <string name="contact">contact</string>
+    <string name="DeletTrip">DeletTrip</string>
+    <string name="DeleteTrip">DeleteTrip</string>
+    <string name="OK">OK</string>
     <string name="wadihitan">WadiHitan</string>
     <string name="qarunqpalace">Qarunqpalace</string>
     <string name="comoshin">comoshin</string>

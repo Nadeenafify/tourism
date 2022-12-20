@@ -13,6 +13,58 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Citesshow"
         tools:targetApi="31">
+
+
+
+
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity12"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity14"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity17"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity22"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivitycom"
+            android:exported="false" />
+        <activity
+            android:name=".Mainactivitys"
+            android:exported="false" />
+
+
+
         <activity
             android:name=".catrin_montain"
             android:exported="false" />
@@ -304,6 +356,7 @@
         <activity
             android:name=".placesingiza"
             android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -313,6 +366,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

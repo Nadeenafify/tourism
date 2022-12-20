@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+
+
+
+        <ImageView
+            android:id="@+id/imm"
+            android:layout_width="107dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/trip" />
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+
+
+            <TextView
+
+                android:id="@+id/Date1"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:text="Date :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+
+                <TextView
+                    android:id="@+id/Date"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            <TextView
+
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Time :"/>
+
+
+                <TextView
+                    android:id="@+id/Time"
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+
+
+            </LinearLayout>
+
+
+
+           <LinearLayout
+
+               android:layout_width="wrap_content"
+               android:orientation="horizontal"
+               android:layout_height="wrap_content">
+
+
+
+
+            <TextView
+
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:text="To :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+
+               <TextView
+                   android:id="@+id/To"
+                   android:textColor="@color/black"
+                   android:layout_marginLeft="20dp"
+                   android:textSize="15sp"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"/>
+
+
+
+
+           </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+            <TextView
+
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="price :"/>
+
+               <TextView
+                   android:id="@+id/price"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+            <TextView
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:textSize="15sp"
+                android:text="busnumber :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+
+                <TextView
+                    android:id="@+id/busnumber"
+
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:text="reserved :"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+
+                <TextView
+                    android:id="@+id/reserved"
+                    android:inputType="number"
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:text="remained :"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+
+                <TextView
+                    android:id="@+id/remained"
+
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>
